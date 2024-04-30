@@ -48,7 +48,7 @@ For questions and feedback, please open an issue in the GitHub repository or con
 - For more detailed setup instructions or troubleshooting, consider linking to official documentation for key dependencies like OpenCV and MediaPipe.
 ```
 
-### Enhancements in README:
+Enhancements in README:
 - Included parameters like `frame_skip_rate` in the usage section to reflect additional functionalities for optimizing processing.
 - Mentioned the visual representation of movement paths in the output video.
 - Encouraged contributions and provided a license detail.
