@@ -1,5 +1,4 @@
 
-```markdown
 # Feet Position Tracker
 
 ## Project Overview
