@@ -24,7 +24,7 @@ To use this script, follow these steps:
 4. Run the script using Python:
 
 ```bash
-python feet_position_tracker.py
+python platingnum_fitnessv5.py
 ```
 
 During execution, press 'q' to quit the video playback window.
