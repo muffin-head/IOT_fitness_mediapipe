@@ -1,6 +1,4 @@
-To accurately reflect the updates made to your project, where the focus has shifted from tracking feet positions to using more stable markers such as hips, and from a direct side-view interpretation to more abstract Z-axis movement visualization, the README needs to be updated. Below is an enhanced version of the README file that incorporates these changes:
 
----
 
 # Movement Pattern Tracker
 
@@ -27,7 +25,7 @@ To use this script, follow these steps:
 4. Execute the script with Python:
 
 ```bash
-python movement_pattern_tracker.py
+python platingnum_fitnessv6.py
 ```
 
 Press 'q' during execution to quit the video playback window.
